@@ -1,4 +1,4 @@
-# ImageDimensionReduction
+# Image Dimension Reduction
 
 Image dimension reduction from scratch with PCA, SVD, NMF, MDS
 
